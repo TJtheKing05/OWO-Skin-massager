@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OWO Skin Massager/1.0.0": {
+        "dependencies": {
+          "OWO": "2.3.10"
+        },
+        "runtime": {
+          "OWO Skin Massager.dll": {}
+        }
+      },
+      "OWO/2.3.10": {
+        "runtime": {
+          "lib/net6.0/OWO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OWO Skin Massager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OWO/2.3.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/40MVppUYiNrRQp9dn4U9UVM1oWESnMqbCv9E+NaGban3JtaCUg34lb6bWroO0JtE746oyC9+GxgqsOnUkYBMw==",
+      "path": "owo/2.3.10",
+      "hashPath": "owo.2.3.10.nupkg.sha512"
+    }
+  }
+}
